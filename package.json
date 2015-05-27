@@ -1,0 +1,24 @@
+{
+  "name": "sigh-es2015-example",
+  "version": "0.0.0",
+  "description": "Building an ES2015 project with Sigh",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dustinspecker/sigh-es2015-example.git"
+  },
+  "author": "Dustin Specker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dustinspecker/sigh-es2015-example/issues"
+  },
+  "homepage": "https://github.com/dustinspecker/sigh-es2015-example#readme",
+  "devDependencies": {
+    "babel": "^5.4.7",
+    "sigh": "^0.12.10",
+    "sigh-babel": "^0.11.5"
+  }
+}
